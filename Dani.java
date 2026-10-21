@@ -46,9 +46,9 @@ public class Dani {
 		frame.setLocationRelativeTo(null);
 		
 		
-		JLabel lblHolaGithub = new JLabel("HOLA GITHUB CON GIT"); //[cite: 1]
+		JLabel lblHolaGithub = new JLabel("DANIEL RAMIREZ GONZALEZ"); //[cite: 1]
 		lblHolaGithub.setFont(new Font("Tahoma", Font.BOLD, 18));
-		lblHolaGithub.setBounds(100, 110, 260, 30);
+		lblHolaGithub.setBounds(73, 110, 287, 30);
 		frame.getContentPane().add(lblHolaGithub);
 	}
 
