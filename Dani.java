@@ -37,12 +37,12 @@ public class Dani {
 	 */
 	private void initialize() {
 		frame = new JFrame();
-		frame.setTitle("HOLA GIT"); // Establece el título de la ventana
+		frame.setTitle("HOLA GIT"); 
 		frame.setBounds(100, 100, 450, 300);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		// Centra la ventana en la pantalla al ejecutar
+
 		frame.setLocationRelativeTo(null);
 		
 		// Agrega la etiqueta con el texto de la imagen
