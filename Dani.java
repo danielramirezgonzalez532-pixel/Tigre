@@ -46,7 +46,7 @@ public class Dani {
 		frame.setLocationRelativeTo(null);
 		
 		
-		JLabel lblHolaGithub = new JLabel("DAVID RAMIREZ DOMINGUEZ"); //[cite: 1]
+		JLabel lblHolaGithub = new JLabel("DAVID RAMIREZ GONZALEZ"); 
 		lblHolaGithub.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblHolaGithub.setBounds(73, 110, 287, 30);
 		frame.getContentPane().add(lblHolaGithub);
