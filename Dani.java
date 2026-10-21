@@ -45,7 +45,7 @@ public class Dani {
 
 		frame.setLocationRelativeTo(null);
 		
-		// Agrega la etiqueta con el texto de la imagen
+		
 		JLabel lblHolaGithub = new JLabel("HOLA GITHUB CON GIT"); //[cite: 1]
 		lblHolaGithub.setFont(new Font("Tahoma", Font.BOLD, 18));
 		lblHolaGithub.setBounds(100, 110, 260, 30);
